@@ -37,7 +37,7 @@ SDLC = Plan → Build → Test → Release → Maintain.
 In simple:  
 Agile means doing work in small steps, improving constantly, and adapting quickly.
 
------------------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 # Required Installations (Developer Essentials): simple reason for why each tool is needed.
@@ -51,7 +51,7 @@ Agile means doing work in small steps, improving constantly, and adapting quickl
 
 (Used for JavaScript development and DevOps tools)
 
---------------------------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------------------------
 
 # Java – Install JVM / JDK  
 
@@ -60,7 +60,7 @@ Agile means doing work in small steps, improving constantly, and adapting quickl
 
 Used for enterprise apps, Android tools, Jenkins, and backend services.*
 
-------------------------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------------------------
 
 # Python – Install using pyenv  
 
@@ -107,7 +107,7 @@ Used for enterprise apps, Android tools, Jenkins, and backend services.*
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------
 
-# 🟣   VS Code – Vim/Nano  
+# VS Code – Vim/Nano  
 
 *   VS Code   → Modern code editor.
 *   Vim/Nano   → Terminal-based editors (useful for servers).
