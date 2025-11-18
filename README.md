@@ -143,4 +143,16 @@ Used for enterprise apps, Android tools, Jenkins, and backend services.*
 
 
 
+Day 2: 
+
+1. Devops Introduction
+
+2. Linux Fundamentals: file structure, and basics commands
+
+/
+/bin
+/usr
+/tmp
+/etc
+
 
